@@ -1,0 +1,8 @@
+Player	rawDistanceSocre	distanceScore	task3Duration	isOutsideLane	isTimeout	hasCollided	hasExceededSpeedLimit	hasFinishedTask1	hasFinishedTask2	hasFinishedTask3
+20230816041418_air-gh_test1-patch_20230816_enable_autoware_mini_2.patch										
+20230816042000_air-gh_test1-patch_20230816_enable_autoware_mini_2.patch										
+20230816042541_air-gh_test1-patch_20230816_enable_autoware_mini_2.patch										
+20230816043122_air-gh_test1-patch_20230816_enable_autoware_mini_2.patch										
+20230816043704_air-gh_test1-patch_20230816_enable_autoware_mini_2.patch										
+20230816044426_air-gh_test1-patch_20230816_enable_autoware_mini_2.patch	-1	-1	-1	false	false	false	false	false	false	false
+20230816045148_air-gh_test1-patch_20230816_enable_autoware_mini_2.patch	-1	-1	-1	false	false	false	false	false	false	false
