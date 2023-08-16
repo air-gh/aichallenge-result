@@ -1,0 +1,15 @@
+Player	rawDistanceSocre	distanceScore	task3Duration	isOutsideLane	isTimeout	hasCollided	hasExceededSpeedLimit	hasFinishedTask1	hasFinishedTask2	hasFinishedTask3
+20230816022742_air-gh_test1-patch_20230809_2.patch										
+20230816023505_air-gh_test1-patch_20230809_2.patch	-1	-1	-1	false	false	false	false	false	false	false
+20230816024227_air-gh_test1-patch_20230809_2.patch	-1	-1	-1	false	false	false	false	false	false	false
+20230816024950_air-gh_test1-patch_20230809_2.patch	-1	-1	-1	false	false	false	false	false	false	false
+20230816025531_air-gh_test1-patch_20230809_2.patch										
+20230816030254_air-gh_test1-patch_20230809_2.patch	-1	-1	-1	false	false	false	false	false	false	false
+20230816031017_air-gh_test1-patch_20230809_2.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230809_2.patch	42.8903	42.8903	12.3998	false	false	true	false	true	true	false
+test1-patch_20230809_2.patch	43.27	43.27	12.5999	false	false	true	false	true	true	false
+test1-patch_20230809_2.patch	52.6574	50.0246	30.4003	false	false	true	false	false	true	false
+test1-patch_20230809_2.patch	42.8565	42.8565	12.3999	false	false	true	false	true	true	false
+test1-patch_20230809_2.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230809_2.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230809_2.patch	-1	-1	-1	false	false	false	false	false	false	false
