@@ -1,0 +1,15 @@
+Player	rawDistanceSocre	distanceScore	task3Duration	isOutsideLane	isTimeout	hasCollided	hasExceededSpeedLimit	hasFinishedTask1	hasFinishedTask2	hasFinishedTask3
+20230816050234_air-gh_test1-patch_20230816_kuroda_tmp.patch										
+20230816050815_air-gh_test1-patch_20230816_kuroda_tmp.patch										
+20230816051538_air-gh_test1-patch_20230816_kuroda_tmp.patch	-1	-1	-1	false	false	false	false	false	false	false
+20230816052119_air-gh_test1-patch_20230816_kuroda_tmp.patch										
+20230816052701_air-gh_test1-patch_20230816_kuroda_tmp.patch										
+20230816053423_air-gh_test1-patch_20230816_kuroda_tmp.patch	-1	-1	-1	false	false	false	false	false	false	false
+20230816054005_air-gh_test1-patch_20230816_kuroda_tmp.patch										
+test1-patch_20230816_kuroda_tmp.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230816_kuroda_tmp.patch	33.4417	31.7696	3.19995	false	false	true	false	false	true	false
+test1-patch_20230816_kuroda_tmp.patch	42.9669	42.9669	12.5999	false	false	true	false	true	true	false
+test1-patch_20230816_kuroda_tmp.patch	43.0374	40.8855	12.5999	false	false	true	false	false	true	false
+test1-patch_20230816_kuroda_tmp.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230816_kuroda_tmp.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230816_kuroda_tmp.patch	42.9357	42.9357	12.3999	false	false	true	false	true	true	false
