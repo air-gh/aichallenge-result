@@ -1,0 +1,8 @@
+Player	rawDistanceSocre	distanceScore	task3Duration	isOutsideLane	isTimeout	hasCollided	hasExceededSpeedLimit	hasFinishedTask1	hasFinishedTask2	hasFinishedTask3
+test1-patch_20230816_1330_tamani-souha_v4_acc_jerk2_leftdrivablebound_collisionbuffer0.1_jerkfilter0.patch	1.60845	0	0	false	false	false	true	false	true	false
+test1-patch_20230816_1330_tamani-souha_v4_acc_jerk2_leftdrivablebound_collisionbuffer0.1_jerkfilter0.patch	1.39513	0	0	false	false	false	true	false	true	false
+test1-patch_20230816_1330_tamani-souha_v4_acc_jerk2_leftdrivablebound_collisionbuffer0.1_jerkfilter0.patch	1.78455	0	0	false	false	false	true	false	true	false
+test1-patch_20230816_1330_tamani-souha_v4_acc_jerk2_leftdrivablebound_collisionbuffer0.1_jerkfilter0.patch	1.54423	0	0	false	false	false	true	false	true	false
+test1-patch_20230816_1330_tamani-souha_v4_acc_jerk2_leftdrivablebound_collisionbuffer0.1_jerkfilter0.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230816_1330_tamani-souha_v4_acc_jerk2_leftdrivablebound_collisionbuffer0.1_jerkfilter0.patch	1.73354	0	0	false	false	false	true	false	true	false
+test1-patch_20230816_1330_tamani-souha_v4_acc_jerk2_leftdrivablebound_collisionbuffer0.1_jerkfilter0.patch	1.43387	0	0	false	false	false	true	false	true	false
