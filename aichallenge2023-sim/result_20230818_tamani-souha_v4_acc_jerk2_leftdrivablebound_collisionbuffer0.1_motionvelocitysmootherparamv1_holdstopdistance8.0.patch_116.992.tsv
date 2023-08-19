@@ -1,0 +1,8 @@
+Player	rawDistanceSocre	distanceScore	task3Duration	isOutsideLane	isTimeout	hasCollided	hasExceededSpeedLimit	hasFinishedTask1	hasFinishedTask2	hasFinishedTask3
+test1-patch_20230818_tamani-souha_v4_acc_jerk2_leftdrivablebound_collisionbuffer0.1_motionvelocitysmootherparamv1_holdstopdistance8.0.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230818_tamani-souha_v4_acc_jerk2_leftdrivablebound_collisionbuffer0.1_motionvelocitysmootherparamv1_holdstopdistance8.0.patch	116.999	111.149	66.9998	true	false	false	false	false	true	false
+test1-patch_20230818_tamani-souha_v4_acc_jerk2_leftdrivablebound_collisionbuffer0.1_motionvelocitysmootherparamv1_holdstopdistance8.0.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230818_tamani-souha_v4_acc_jerk2_leftdrivablebound_collisionbuffer0.1_motionvelocitysmootherparamv1_holdstopdistance8.0.patch	116.992	111.142	64.6	true	false	false	false	false	true	false
+test1-patch_20230818_tamani-souha_v4_acc_jerk2_leftdrivablebound_collisionbuffer0.1_motionvelocitysmootherparamv1_holdstopdistance8.0.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230818_tamani-souha_v4_acc_jerk2_leftdrivablebound_collisionbuffer0.1_motionvelocitysmootherparamv1_holdstopdistance8.0.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230818_tamani-souha_v4_acc_jerk2_leftdrivablebound_collisionbuffer0.1_motionvelocitysmootherparamv1_holdstopdistance8.0.patch	-1	-1	-1	false	false	false	false	false	false	false
