@@ -1,0 +1,8 @@
+Player	rawDistanceSocre	distanceScore	task3Duration	isOutsideLane	isTimeout	hasCollided	hasExceededSpeedLimit	hasFinishedTask1	hasFinishedTask2	hasFinishedTask3
+test1-patch_20230820_tamatamacornyoketa_03.patch	33.4127	31.7421	3.19997	false	false	true	false	false	true	false
+test1-patch_20230820_tamatamacornyoketa_03.patch	33.6675	31.9842	3.39995	false	false	true	false	false	true	false
+test1-patch_20230820_tamatamacornyoketa_03.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230820_tamatamacornyoketa_03.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230820_tamatamacornyoketa_03.patch	116.479	110.655	64	true	false	false	false	false	true	false
+test1-patch_20230820_tamatamacornyoketa_03.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230820_tamatamacornyoketa_03.patch	33.6755	31.9917	3.39995	false	false	true	false	false	true	false
