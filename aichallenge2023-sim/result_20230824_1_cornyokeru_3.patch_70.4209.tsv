@@ -1,0 +1,8 @@
+Player	rawDistanceSocre	distanceScore	task3Duration	isOutsideLane	isTimeout	hasCollided	hasExceededSpeedLimit	hasFinishedTask1	hasFinishedTask2	hasFinishedTask3
+test1-patch_20230824_1_cornyokeru_3.patch	70.4209	66.8999	277.4	false	true	false	false	false	true	false
+test1-patch_20230824_1_cornyokeru_3.patch	33.6279	31.9465	3.39998	false	false	true	false	false	true	false
+test1-patch_20230824_1_cornyokeru_3.patch	88.9683	84.5199	43.4	true	false	false	false	false	true	false
+test1-patch_20230824_1_cornyokeru_3.patch	33.5488	31.8714	5.59995	false	false	true	false	false	true	false
+test1-patch_20230824_1_cornyokeru_3.patch	21.3768	20.308	0	false	true	false	false	false	true	false
+test1-patch_20230824_1_cornyokeru_3.patch	33.6324	31.9508	5.59996	false	false	true	false	false	true	false
+test1-patch_20230824_1_cornyokeru_3.patch	33.6035	31.9233	5.59996	false	false	true	false	false	true	false
