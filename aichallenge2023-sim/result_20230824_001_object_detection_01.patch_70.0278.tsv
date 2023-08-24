@@ -1,0 +1,8 @@
+Player	rawDistanceSocre	distanceScore	task3Duration	isOutsideLane	isTimeout	hasCollided	hasExceededSpeedLimit	hasFinishedTask1	hasFinishedTask2	hasFinishedTask3
+test1-patch_20230824_001_object_detection_01.patch	27.735	27.735	0	false	true	false	false	true	true	false
+test1-patch_20230824_001_object_detection_01.patch	69.9638	69.9638	271.596	false	true	false	false	true	true	false
+test1-patch_20230824_001_object_detection_01.patch	116.458	116.458	63.9999	true	false	false	false	true	true	false
+test1-patch_20230824_001_object_detection_01.patch	70.0278	70.0278	271.6	false	true	false	false	true	true	false
+test1-patch_20230824_001_object_detection_01.patch	27.7536	27.7536	0	false	true	false	false	true	true	false
+test1-patch_20230824_001_object_detection_01.patch	27.7704	27.7704	0	false	true	false	false	true	true	false
+test1-patch_20230824_001_object_detection_01.patch	27.7198	27.7198	0	false	true	false	false	true	true	false
