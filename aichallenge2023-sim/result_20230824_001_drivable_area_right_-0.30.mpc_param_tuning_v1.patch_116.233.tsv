@@ -1,0 +1,8 @@
+Player	rawDistanceSocre	distanceScore	task3Duration	isOutsideLane	isTimeout	hasCollided	hasExceededSpeedLimit	hasFinishedTask1	hasFinishedTask2	hasFinishedTask3
+test1-patch_20230824_001_drivable_area_right_-0.30.mpc_param_tuning_v1.patch	47.4371	47.4371	271.399	false	true	false	false	true	true	false
+test1-patch_20230824_001_drivable_area_right_-0.30.mpc_param_tuning_v1.patch	48.7327	48.7327	271.6	false	true	false	false	true	true	false
+test1-patch_20230824_001_drivable_area_right_-0.30.mpc_param_tuning_v1.patch	47.842	47.842	271.6	false	true	false	false	true	true	false
+test1-patch_20230824_001_drivable_area_right_-0.30.mpc_param_tuning_v1.patch	37.5736	37.5736	271.6	false	true	false	false	true	true	false
+test1-patch_20230824_001_drivable_area_right_-0.30.mpc_param_tuning_v1.patch	37.4929	37.4929	271.4	false	true	false	false	true	true	false
+test1-patch_20230824_001_drivable_area_right_-0.30.mpc_param_tuning_v1.patch	116.233	116.233	63.8	true	false	false	false	true	true	false
+test1-patch_20230824_001_drivable_area_right_-0.30.mpc_param_tuning_v1.patch	116.336	116.336	72.9999	true	false	false	false	true	true	false
