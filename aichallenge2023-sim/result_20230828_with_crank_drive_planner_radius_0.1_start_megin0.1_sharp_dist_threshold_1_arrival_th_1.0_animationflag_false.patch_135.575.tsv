@@ -1,0 +1,8 @@
+Player	rawDistanceSocre	distanceScore	task3Duration	isOutsideLane	isTimeout	hasCollided	hasExceededSpeedLimit	hasFinishedTask1	hasFinishedTask2	hasFinishedTask3
+test1-patch_20230828_with_crank_drive_planner_radius_0.1_start_megin0.1_sharp_dist_threshold_1_arrival_th_1.0_animationflag_false.patch	135.575	135.575	86.6	true	false	false	false	true	true	false
+test1-patch_20230828_with_crank_drive_planner_radius_0.1_start_megin0.1_sharp_dist_threshold_1_arrival_th_1.0_animationflag_false.patch	135.277	135.277	80.4	true	false	false	false	true	true	false
+test1-patch_20230828_with_crank_drive_planner_radius_0.1_start_megin0.1_sharp_dist_threshold_1_arrival_th_1.0_animationflag_false.patch	118.375	118.375	65.4	false	false	true	false	true	true	false
+test1-patch_20230828_with_crank_drive_planner_radius_0.1_start_megin0.1_sharp_dist_threshold_1_arrival_th_1.0_animationflag_false.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230828_with_crank_drive_planner_radius_0.1_start_megin0.1_sharp_dist_threshold_1_arrival_th_1.0_animationflag_false.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230828_with_crank_drive_planner_radius_0.1_start_megin0.1_sharp_dist_threshold_1_arrival_th_1.0_animationflag_false.patch	118.252	118.252	65.4	false	false	true	false	true	true	false
+test1-patch_20230828_with_crank_drive_planner_radius_0.1_start_megin0.1_sharp_dist_threshold_1_arrival_th_1.0_animationflag_false.patch	145.15	145.15	89.4	true	false	false	false	true	true	false
