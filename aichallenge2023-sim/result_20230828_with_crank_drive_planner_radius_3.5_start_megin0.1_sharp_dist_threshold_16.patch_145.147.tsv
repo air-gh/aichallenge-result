@@ -1,0 +1,8 @@
+Player	rawDistanceSocre	distanceScore	task3Duration	isOutsideLane	isTimeout	hasCollided	hasExceededSpeedLimit	hasFinishedTask1	hasFinishedTask2	hasFinishedTask3
+test1-patch_20230828_with_crank_drive_planner_radius_3.5_start_megin0.1_sharp_dist_threshold_16.patch	145.187	145.187	87.6	true	false	false	false	true	true	false
+test1-patch_20230828_with_crank_drive_planner_radius_3.5_start_megin0.1_sharp_dist_threshold_16.patch	135.408	135.408	84.2	true	false	false	false	true	true	false
+test1-patch_20230828_with_crank_drive_planner_radius_3.5_start_megin0.1_sharp_dist_threshold_16.patch	145.109	145.109	88.6	true	false	false	false	true	true	false
+test1-patch_20230828_with_crank_drive_planner_radius_3.5_start_megin0.1_sharp_dist_threshold_16.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230828_with_crank_drive_planner_radius_3.5_start_megin0.1_sharp_dist_threshold_16.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20230828_with_crank_drive_planner_radius_3.5_start_megin0.1_sharp_dist_threshold_16.patch	145.147	145.147	88.4	true	false	false	false	true	true	false
+test1-patch_20230828_with_crank_drive_planner_radius_3.5_start_megin0.1_sharp_dist_threshold_16.patch	145.14	145.14	87.6	true	false	false	false	true	true	false
