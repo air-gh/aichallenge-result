@@ -1,0 +1,8 @@
+Player	rawDistanceSocre	distanceScore	task3Duration	isOutsideLane	isTimeout	hasCollided	hasExceededSpeedLimit	hasFinishedTask1	hasFinishedTask2	hasFinishedTask3
+test1-patch_20231104_with_crank_drive_planner_radius_4.5_start_megin0.1_sharp_dist_threshold_19_animation_false_plus_setup_2.py.patch	43.2616	43.2616	15.2	false	false	true	false	true	true	false
+test1-patch_20231104_with_crank_drive_planner_radius_4.5_start_megin0.1_sharp_dist_threshold_19_animation_false_plus_setup_2.py.patch	145.882	145.882	108.4	true	false	false	false	true	true	false
+test1-patch_20231104_with_crank_drive_planner_radius_4.5_start_megin0.1_sharp_dist_threshold_19_animation_false_plus_setup_2.py.patch	145.712	145.712	109	true	false	false	false	true	true	false
+test1-patch_20231104_with_crank_drive_planner_radius_4.5_start_megin0.1_sharp_dist_threshold_19_animation_false_plus_setup_2.py.patch	118.272	118.272	65.2	false	false	true	false	true	true	false
+test1-patch_20231104_with_crank_drive_planner_radius_4.5_start_megin0.1_sharp_dist_threshold_19_animation_false_plus_setup_2.py.patch	144.905	144.905	104	true	false	false	false	true	true	false
+test1-patch_20231104_with_crank_drive_planner_radius_4.5_start_megin0.1_sharp_dist_threshold_19_animation_false_plus_setup_2.py.patch	135.277	135.277	84.4	true	false	false	false	true	true	false
+test1-patch_20231104_with_crank_drive_planner_radius_4.5_start_megin0.1_sharp_dist_threshold_19_animation_false_plus_setup_2.py.patch	-1	-1	-1	false	false	false	false	false	false	false
