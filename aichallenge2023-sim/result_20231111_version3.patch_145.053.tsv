@@ -1,0 +1,8 @@
+Player	rawDistanceSocre	distanceScore	task3Duration	isOutsideLane	isTimeout	hasCollided	hasExceededSpeedLimit	hasFinishedTask1	hasFinishedTask2	hasFinishedTask3
+test1-patch_20231111_version3.patch	118.352	112.434	67.8	false	false	true	false	false	true	false
+test1-patch_20231111_version3.patch	75.1801	71.4211	33	false	false	true	false	false	true	false
+test1-patch_20231111_version3.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20231111_version3.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20231111_version3.patch	145.053	137.801	87.2	true	false	false	false	false	true	false
+test1-patch_20231111_version3.patch	145.094	137.84	87	true	false	false	false	false	true	false
+test1-patch_20231111_version3.patch	-1	-1	-1	false	false	false	false	false	false	false
