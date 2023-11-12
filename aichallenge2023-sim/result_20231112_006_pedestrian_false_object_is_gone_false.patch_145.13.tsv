@@ -1,0 +1,8 @@
+Player	rawDistanceSocre	distanceScore	task3Duration	isOutsideLane	isTimeout	hasCollided	hasExceededSpeedLimit	hasFinishedTask1	hasFinishedTask2	hasFinishedTask3
+test1-patch_20231112_006_pedestrian_false_object_is_gone_false.patch	145.011	137.761	89.6	true	false	false	false	false	true	false
+test1-patch_20231112_006_pedestrian_false_object_is_gone_false.patch	145.032	137.78	87.2	true	false	false	false	false	true	false
+test1-patch_20231112_006_pedestrian_false_object_is_gone_false.patch	-1	-1	-1	false	false	false	false	false	false	false
+test1-patch_20231112_006_pedestrian_false_object_is_gone_false.patch	145.063	137.81	87.4	true	false	false	false	false	true	false
+test1-patch_20231112_006_pedestrian_false_object_is_gone_false.patch	145.13	137.873	87.2	true	false	false	false	false	true	false
+test1-patch_20231112_006_pedestrian_false_object_is_gone_false.patch	145.203	137.943	87.4	true	false	false	false	false	true	false
+test1-patch_20231112_006_pedestrian_false_object_is_gone_false.patch	89.2854	84.8212	44	true	false	false	false	false	true	false
