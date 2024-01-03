@@ -1,0 +1,8 @@
+Player	rawLapTime	distanceScore	lapTime	isLapCompleted	isTimeout	trackLimitsViolation	collisionViolation
+test1-patch_20240103happynewyear.patch	247.40329	100	367.4033	true	false	[  5,  8,  4,  1,  0]	[  1,  0,  0,  0]
+test1-patch_20240103happynewyear.patch	133.971634	47.06927	308.971619	false	false	[  8,  11,  5,  2,  0]	[  2,  0,  0,  0]
+test1-patch_20240103happynewyear.patch	224.6458	47.3357	374.6458	false	false	[  6,  10,  5,  1,  0]	[  2,  0,  0,  0]
+test1-patch_20240103happynewyear.patch	248.536667	100	368.536682	true	false	[  3,  7,  5,  1,  0]	[  2,  0,  0,  0]
+test1-patch_20240103happynewyear.patch	221.645447	47.42451	381.645447	false	false	[  7,  11,  5,  1,  0]	[  2,  0,  0,  0]
+test1-patch_20240103happynewyear.patch	329.6826	100	814.6826	true	false	[  27,  37,  13,  3,  0]	[  1,  0,  0,  0]
+test1-patch_20240103happynewyear.patch	584.761841	47.60213	729.761841	false	true	[  7,  10,  4,  1,  0]	[  2,  0,  0,  0]
