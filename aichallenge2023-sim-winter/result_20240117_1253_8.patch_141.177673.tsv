@@ -1,0 +1,8 @@
+Player	rawLapTime	distanceScore	lapTime	isLapCompleted	isTimeout	trackLimitsViolation	collisionViolation
+test1-patch_20240117_1253_8.patch	141.343582	100	141.343582	true	false	[  0,  0,  0,  0,  0]	[  0,  0,  0,  0]
+test1-patch_20240117_1253_8.patch	141.29361	100	141.29361	true	false	[  0,  0,  0,  0,  0]	[  0,  0,  0,  0]
+test1-patch_20240117_1253_8.patch	585.116333	50.97691	605.116333	false	true	[  1,  1,  0,  0,  0]	[  2,  0,  0,  0]
+test1-patch_20240117_1253_8.patch	141.215652	100	141.215652	true	false	[  0,  0,  0,  0,  0]	[  0,  0,  0,  0]
+test1-patch_20240117_1253_8.patch	141.177673	100	141.177673	true	false	[  0,  0,  0,  0,  0]	[  0,  0,  0,  0]
+test1-patch_20240117_1253_8.patch	585.333862	52.13144	780.333862	false	true	[  17,  18,  1,  0,  0]	[  2,  0,  0,  0]
+test1-patch_20240117_1253_8.patch	141.199661	100	141.199661	true	false	[  0,  0,  0,  0,  0]	[  0,  0,  0,  0]
