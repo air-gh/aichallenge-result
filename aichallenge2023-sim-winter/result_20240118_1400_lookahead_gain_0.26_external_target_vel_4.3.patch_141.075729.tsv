@@ -1,0 +1,8 @@
+Player	rawLapTime	distanceScore	lapTime	isLapCompleted	isTimeout	trackLimitsViolation	collisionViolation
+test1-patch_20240118_1400_lookahead_gain_0.26_external_target_vel_4.3.patch	141.177673	100	141.177673	true	false	[  0,  0,  0,  0,  0]	[  0,  0,  0,  0]
+test1-patch_20240118_1400_lookahead_gain_0.26_external_target_vel_4.3.patch	141.29361	100	141.29361	true	false	[  0,  0,  0,  0,  0]	[  0,  0,  0,  0]
+test1-patch_20240118_1400_lookahead_gain_0.26_external_target_vel_4.3.patch	141.175674	100	141.175674	true	false	[  0,  0,  0,  0,  0]	[  0,  0,  0,  0]
+test1-patch_20240118_1400_lookahead_gain_0.26_external_target_vel_4.3.patch	141.259628	100	141.259628	true	false	[  0,  0,  0,  0,  0]	[  0,  0,  0,  0]
+test1-patch_20240118_1400_lookahead_gain_0.26_external_target_vel_4.3.patch	141.193665	100	141.193665	true	false	[  0,  0,  0,  0,  0]	[  0,  0,  0,  0]
+test1-patch_20240118_1400_lookahead_gain_0.26_external_target_vel_4.3.patch	141.2976	100	141.2976	true	false	[  0,  0,  0,  0,  0]	[  0,  0,  0,  0]
+test1-patch_20240118_1400_lookahead_gain_0.26_external_target_vel_4.3.patch	141.075729	100	141.075729	true	false	[  0,  0,  0,  0,  0]	[  0,  0,  0,  0]
