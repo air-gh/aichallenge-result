@@ -1,0 +1,8 @@
+Player	rawLapTime	distanceScore	lapTime	isLapCompleted	isTimeout	trackLimitsViolation	collisionViolation
+test2-patch_20240117_1253_5_awsim_for_test2_2.patch	575.462463	41.829483	1580.4624	false	true	[  62,  87,  25,  0,  0]	[  2,  0,  0,  0]
+test2-patch_20240117_1253_5_awsim_for_test2_2.patch	141.987228	100	146.987228	true	false	[  0,  0,  0,  0,  0]	[  1,  0,  0,  0]
+test2-patch_20240117_1253_5_awsim_for_test2_2.patch	575.8512	38.01066	600.8512	false	true	[  1,  1,  0,  0,  0]	[  3,  0,  0,  0]
+test2-patch_20240117_1253_5_awsim_for_test2_2.patch	575.9781	38.01066	595.9781	false	true	[  1,  1,  0,  0,  0]	[  2,  0,  0,  0]
+test2-patch_20240117_1253_5_awsim_for_test2_2.patch	575.9801	38.45471	655.9801	false	true	[  1,  5,  4,  0,  0]	[  2,  0,  0,  0]
+test2-patch_20240117_1253_5_awsim_for_test2_2.patch	141.935257	100	181.935257	true	false	[  0,  0,  0,  0,  0]	[  8,  0,  0,  0]
+test2-patch_20240117_1253_5_awsim_for_test2_2.patch	575.885437	38.27709	625.885437	false	true	[  4,  4,  0,  0,  0]	[  2,  0,  0,  0]
